@@ -1,5 +1,4 @@
 # MALAMU
-Hospital Database Systeme
+Your Mobile Passport To Health
 
-#MALAMU
 We have made it possible! MALAMU is a service that is provided to civilian patients who seek a more efficient health care delivery system that what which is in current existence. MALAMU is in affiliation with many hospitals around the globe. Through MALAMU online websites and mobile application, patients are able to book medical appointments. This ensures that the patient wastes no time in long queues. The hospital administration is able to able to securely store a users medical records such as diagnosis and medical prescriptions into an electronic database. The centralized, electronic database can be assessed by any medical staff from any MALAMU hospital provided the users ID is inputted into the computer. One advantage of this method of data storage is that, the patient is able to retrieve his medical record and be offered medical treatment in any geographic location. Also, MALAMU seeks to eliminate the inconvenience of data loss and time wastage in retrieving a paper folder. With the introduction of this technology, health outcomes all over the world would see some great improvements.
